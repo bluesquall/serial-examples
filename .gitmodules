@@ -1,0 +1,6 @@
+[submodule "serial-port"]
+	path = serial-port
+	url = git@github.com:bluesquall/serial-port.git
+[submodule "simple-serial"]
+	path = simple-serial
+	url = git@github.com:bluesquall/simple-serial.git
